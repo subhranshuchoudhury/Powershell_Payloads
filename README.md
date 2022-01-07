@@ -1,4 +1,5 @@
 # Powershell Payloads!
+- Edit powershell script & batch file according to your environment.
 
 ![powershell-icon-17195](https://user-images.githubusercontent.com/63858190/148530115-5bbfa9b0-9ea8-4c0e-9393-0c36e78365fd.png)
 
